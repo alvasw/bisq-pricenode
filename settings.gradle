@@ -1,0 +1,4 @@
+rootProject.name = 'pricenode'
+
+include 'pricenode'
+includeBuild('bisq')
