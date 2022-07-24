@@ -3,5 +3,5 @@
 	url = https://github.com/bisq-network/bisq.git
 [submodule "bisq-gradle"]
 	path = bisq-gradle
-	url = https://github.com/ghubstan/bisq-gradle.git
-	branch = add-post-build-task
+	url = https://github.com/ghubstan/bisq-post-assemble-plugin.git
+	branch = convert_to_standalone_plugin
